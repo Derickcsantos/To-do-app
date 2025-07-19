@@ -1,5 +1,29 @@
-# Vue 3 + Vite
+<div align="center">
+  
+# Aplicativo web de tarefas
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+</div>
+
+## Sobre o projeto 
+
+Projeto de organização de tarefas desenvolvido com intuito de desenvolver conhecimento no framework Vue.js e na manipulação do localStorage. Neste projeto é possível controlar o nome que deseja ser chamado, adicionar e excluir tarefas. 
+
+
+Para criar um projeto vue.js basta adicionar o comando abaixo em seu terminal:
+
+  ```bash
+      npm create vite@latest -- --template vue
+  ```
+
+Instale as dependências
+
+  ```bash
+      npm install
+  ```
+
+Acesse seu navegador na porta indicada
+
+  ```bash
+      localhost: 5173
+  ```
